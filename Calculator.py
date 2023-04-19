@@ -1,1 +1,3 @@
-import Python as sg
+import PySimpleGUI as sg
+
+layout = [[]]
