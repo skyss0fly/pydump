@@ -1,3 +1,6 @@
 import PySimpleGUI as sg
 
-layout = [[]]
+layout = [sg.Text('Calculator by skyss0fly')]
+]
+
+
